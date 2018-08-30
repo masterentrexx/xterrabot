@@ -1,0 +1,20 @@
+{
+  "name": "xterrabot",
+  "version": "1.0.0",
+  "description": "twitch chatbot",
+  "main": "app.js",
+  "dependencies": {
+    "eslint": "^5.4.0",
+    "tmi.js": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/masterentrexx/xterrabot/upload/master"
+  },
+  "author": "Master Entrexx",
+  "license": "ISC"
+}
