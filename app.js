@@ -12,7 +12,7 @@ var options = {
 		username: "botname",
 		password: "oauth:"
 	},
-	channels: ["#masterentrexx"]
+	channels: ["#your_channel"]
 };
 
 
