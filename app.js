@@ -9,8 +9,8 @@ var options = {
 		reconnect: true
 	},
 	identity: {
-		username: "xterrabot",
-		password: "oauth:q5k4a38vno4stusrh18czz2dunwknm"
+		username: "botname",
+		password: "oauth:"
 	},
 	channels: ["#masterentrexx"]
 };
